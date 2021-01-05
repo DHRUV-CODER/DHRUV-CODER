@@ -1,14 +1,10 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Dhruv 👋
 
 
 
 ## I'm a Human
 
 - I recently Made  a Discord Bot check it out
-
-
-
-
 
 ### Languages and Tools:
 
