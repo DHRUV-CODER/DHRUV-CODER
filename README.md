@@ -1,5 +1,8 @@
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=solarized-dark)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=dark" alt="DHRUV-CODER" /></p>
+
 # Find Me Here 
 </p>
 <p align="left">
@@ -9,4 +12,3 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=dark" alt="DHRUV-CODER" /></p>
