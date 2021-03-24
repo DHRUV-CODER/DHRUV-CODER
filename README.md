@@ -1,4 +1,4 @@
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=Gradient)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=solarized-dark)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER" /></p>
