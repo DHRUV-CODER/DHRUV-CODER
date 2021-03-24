@@ -7,3 +7,6 @@
     <img src="https://img.shields.io/discord/790595270438027295?plastic" alt="discord - users online" />
   </a>
 </p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=dark" alt="DHRUV-CODER" /></p>
