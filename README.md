@@ -2,6 +2,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=solarized-dark" alt="DHRUV-CODERwow" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER!!!" /></p>
 
 
