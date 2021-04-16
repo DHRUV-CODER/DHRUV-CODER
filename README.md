@@ -2,6 +2,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-CODER)](https://github.com/DHRUV-CODER/github-readme-stats)
 
 # Find Me Here 
 </p>
