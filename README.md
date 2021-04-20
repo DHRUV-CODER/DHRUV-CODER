@@ -6,7 +6,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER!!!" /></p>
 
-
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DHRUV-CODER&theme=dracula"></div>
 # Find Me Here 
 </p>
 <p align="left">
@@ -14,5 +14,4 @@
     <img src="https://img.shields.io/discord/790595270438027295?style=for-the-badge" alt="discord - users online" />
   </a>
 </p>
-
 
