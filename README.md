@@ -14,4 +14,4 @@
 > </p>
 
 
-> <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODERdd!!!" /></p>
+> <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=DHRUV-CODER&theme=dracula" alt="DHRUV-CODERdd!!!" /></p>
