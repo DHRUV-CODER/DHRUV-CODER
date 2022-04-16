@@ -17,8 +17,5 @@
 > </a>
 > </p>
 
-# Random meme 🤭
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer)
