@@ -9,6 +9,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=dhruv-coder&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 # Find Me Here 
 > </p>
 > <p align="left">
