@@ -1,8 +1,8 @@
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=solarized-dark)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=one-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=one-dark" alt="DHRUV-CODER" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-CODER&theme=solarized-dark" alt="DHRUV-CODER!!!" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV-CODER&theme=one-dark" alt="DHRUV-CODER!!!" /></p>
 
 
 # Find Me Here 
