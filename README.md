@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=About%20Dhruv)
+
 ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUV-CODER&show_icons=true&theme=onedark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUV-CODER&theme=onedark" alt="DHRUV-CODER" /></p>
