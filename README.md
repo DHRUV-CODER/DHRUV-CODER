@@ -7,7 +7,7 @@
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-coder&layout=compact&theme=codeSTACKr&hide_border=true" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruv-coder&theme=codeSTACKr&margin-w=13&margin-h=15&column=7&no-frame=true)]
+![trophy](https://github-profile-trophy.vercel.app/?username=dhruv-coder&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)
 
 # Find Me Here 
 > </p>
