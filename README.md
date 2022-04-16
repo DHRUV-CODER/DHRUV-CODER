@@ -16,3 +16,4 @@
 > </p>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer)
