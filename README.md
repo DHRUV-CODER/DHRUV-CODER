@@ -11,13 +11,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Find Me Here 
-> </p>
-> <p align="left">
-> <a href="https://discord.gg/j2NeBaCWYy">
-> <img src="https://img.shields.io/discord/790595270438027295?style=for-the-badge" alt="discord - users online" />
-> </a>
-> </p>
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer)
